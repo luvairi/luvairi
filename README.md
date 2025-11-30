@@ -1,4 +1,4 @@
-　　　　　　　![pups](https://komarev.com/ghpvc/?username=luvairi&color=ffb8d7)
+　　　　　　　![pups](https://komarev.com/ghpvc/?username=luvairi&color=ffb8d7&label=puppies)
 
 
        
